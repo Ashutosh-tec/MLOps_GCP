@@ -35,5 +35,5 @@ The objective is to:
 
 ```bash
 pip install google-cloud-storage joblib scikit-learn
-
+```
 [Watch Demo Video](https://www.youtube.com/watch?v=68YxDKlAdP4)
